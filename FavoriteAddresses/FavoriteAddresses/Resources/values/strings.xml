@@ -4,4 +4,5 @@
   <string name="add_address">Add Address</string>
   <string name="switch_to_list_view">Switch To List View</string>
   <string name="switch_to_map_view">Switch To Map View</string>
+  <string name="no_internet">No Internet</string>
 </resources>

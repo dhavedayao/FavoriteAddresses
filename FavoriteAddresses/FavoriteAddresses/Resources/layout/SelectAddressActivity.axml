@@ -9,6 +9,12 @@
         android:minWidth="25px"
         android:minHeight="25px"
         android:id="@+id/txtSearch" />
+    <TextView
+        android:text="@string/no_internet"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNoInternet" />
     <ListView
         android:minWidth="25px"
         android:minHeight="25px"

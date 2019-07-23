@@ -3748,8 +3748,8 @@ namespace FavoriteAddresses
 			// aapt resource value: 0x7f0d0031
 			public const int listMode = 2131558449;
 			
-			// aapt resource value: 0x7f0d00d3
-			public const int listSearch = 2131558611;
+			// aapt resource value: 0x7f0d00d4
+			public const int listSearch = 2131558612;
 			
 			// aapt resource value: 0x7f0d00bc
 			public const int listSelectedAddresses = 2131558588;
@@ -3763,8 +3763,8 @@ namespace FavoriteAddresses
 			// aapt resource value: 0x7f0d00bd
 			public const int mapLayout = 2131558589;
 			
-			// aapt resource value: 0x7f0d00d5
-			public const int masked = 2131558613;
+			// aapt resource value: 0x7f0d00d6
+			public const int masked = 2131558614;
 			
 			// aapt resource value: 0x7f0d00c5
 			public const int media_actions = 2131558597;
@@ -4045,6 +4045,9 @@ namespace FavoriteAddresses
 			// aapt resource value: 0x7f0d0013
 			public const int transition_transform = 2131558419;
 			
+			// aapt resource value: 0x7f0d00d3
+			public const int txtNoInternet = 2131558611;
+			
 			// aapt resource value: 0x7f0d00d2
 			public const int txtSearch = 2131558610;
 			
@@ -4063,8 +4066,8 @@ namespace FavoriteAddresses
 			// aapt resource value: 0x7f0d001b
 			public const int view_offset_helper = 2131558427;
 			
-			// aapt resource value: 0x7f0d00d4
-			public const int visible = 2131558612;
+			// aapt resource value: 0x7f0d00d5
+			public const int visible = 2131558613;
 			
 			// aapt resource value: 0x7f0d002d
 			public const int wide = 2131558445;
@@ -4616,6 +4619,9 @@ namespace FavoriteAddresses
 			
 			// aapt resource value: 0x7f0a0041
 			public const int mtrl_chip_close_icon_content_description = 2131361857;
+			
+			// aapt resource value: 0x7f0a004d
+			public const int no_internet = 2131361869;
 			
 			// aapt resource value: 0x7f0a0042
 			public const int password_toggle_content_description = 2131361858;
