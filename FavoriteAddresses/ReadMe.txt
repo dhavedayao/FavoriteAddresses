@@ -1,0 +1,1 @@
+Note: Please put the google map api key on the android manifest file
